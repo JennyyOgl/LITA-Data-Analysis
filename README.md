@@ -1,4 +1,8 @@
 # LITA-Data-Analysis
 Data analysis projects documentation
 
-### Project Title:
+### Project Title: The beauty of sun analysis
+
+### Project Overview
+
+This Data analysis project aims to generate insight on the performance of sun over the past year. 
