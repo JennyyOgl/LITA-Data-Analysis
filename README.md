@@ -28,6 +28,7 @@ WHERE CONDITION TRUE
 
 ### Data visualization
 
-[Picture of me](https://github.com/user-attachments/assets/0c073290-d160-4eaf-bd7b-f6c9d8a64cb8)
+😄
+[Picture of me](https://github.com/user-attachments/assets/0c073290-d160-4eaf-bd7b-f6c9d8a64cb8) 🥇
 
 
