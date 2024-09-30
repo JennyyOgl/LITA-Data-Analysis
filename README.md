@@ -17,3 +17,11 @@ The primary source of data used here is Sun.csv
     3. and visualization
 - Microsoft SQL Server Management Studio with SQL  -Structured Query Language
 - Github for portfolio building
+
+### Data analysis
+This is where we include some basic lines of code or queries 
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION TRUE
+```
