@@ -6,3 +6,6 @@ Data analysis projects documentation
 ### Project Overview
 
 This Data analysis project aims to generate insight on the performance of sun over the past year. 
+
+### Data sources 
+The primary source of data used here is Sun.csv
