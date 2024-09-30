@@ -3,6 +3,12 @@ Data analysis projects documentation
 
 ### Project Title: The beauty of sun analysis
 
+[Project Overview](project-overview)
+[Data sources](data-sources)
+[Tools used](tools-used)
+[Data analysis](data-analysis)
+[Data visualization](data-visualization)
+
 ### Project Overview
 
 This Data analysis project aims to generate insight on the performance of sun over the past year. 
@@ -30,5 +36,13 @@ WHERE CONDITION TRUE
 
 😄
 [Picture of me](https://github.com/user-attachments/assets/0c073290-d160-4eaf-bd7b-f6c9d8a64cb8) 🥇
+
+Creer un tableau: 
+
+Nom|Prenom|Age|
+|--|------|---|
+Jenny|Ogl|24
+Sarah|Kor|32
+
 
 
