@@ -3,15 +3,15 @@ Data analysis projects documentation
 
 ### Project Title: The beauty of sun analysis
 
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
-[Data sources](data-sources)
+[Data sources](#data-sources)
 
-[Tools used](tools-used)
+[Tools used](#tools-used)
 
-[Data analysis](data-analysis)
+[Data analysis](#data-analysis)
 
-[Data visualization](data-visualization)
+[Data visualization](#data-visualization)
 
 ### Project Overview
 
