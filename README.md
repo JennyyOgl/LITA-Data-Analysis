@@ -9,3 +9,11 @@ This Data analysis project aims to generate insight on the performance of sun ov
 
 ### Data sources 
 The primary source of data used here is Sun.csv
+
+### Tools used 
+- Microsoft Excel for:
+    1. data cleaning,
+    2. analysis
+    3. and visualization
+- Microsoft SQL Server Management Studio with SQL  -Structured Query Language
+- Github for portfolio building
